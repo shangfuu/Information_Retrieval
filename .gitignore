@@ -3,3 +3,9 @@
 venv
 .env
 env
+
+# data
+**/data
+
+# jupyter
+.ipynb_checkpoints
