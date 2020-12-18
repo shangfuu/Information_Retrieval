@@ -6,7 +6,8 @@ env
 
 # data
 **/data
-**/ntust-ir-2020_hw4_v2
+**/ntust-ir-2020_*
+*.zip
 
 # jupyter
 .ipynb_checkpoints
